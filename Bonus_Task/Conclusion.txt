@@ -1,0 +1,11 @@
+Plot 1 is created by Decision Tree. Because the Decision Boundaries of Decision Tree are always along X or Y axes which is clearly seen in the plot. 
+
+Plot 2 is created by Random Forest. Because the Decision Boundaries of Random Forest are also along X or Y axes, but with much more complexity,as seen in the plot. 
+
+Plot 3 is created by SVM(Support Vector Machine). Because SVM always tries to find a hyperplane to classify. So Decision Boundary of SVM is possible to be a curved smooth line.
+
+Plot 4 is created by Naive Bayes. Because Decision Boundaries of Naive Bayes are mostly oval or circular in shape.
+
+Plot 5 is created by KNN(K Nearest Neighbours). Because Decision Boundaries of KNN are like small fragments of arbitrary shape bounding various spaces.
+  
+
