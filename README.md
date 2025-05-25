@@ -8,13 +8,13 @@ I have completed all the tasks given by ML Module of Coding Club and uploaded it
 
 - EDA and Various Machine Learning Model Applications under Task 1
 - Buiding Chatbot,Agents,Tools of LLM using Langchain and LangGraph under Task 2
-- Decision Boundary analysis for various ML Models under Bonus_Tas
+- Decision Boundary analysis for various ML Models under Bonus_Task
 
 
 ## API Reference
 I have used the following API Keys:
 
-    1) GOGLE_API_KEY
+    1) GOOGLE_API_KEY
     2) TAVILY_API_KEY
     3) OPEN_WEATHER_API_KEY
 
